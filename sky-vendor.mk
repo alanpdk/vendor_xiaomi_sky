@@ -349,6 +349,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sky/proprietary/vendor/etc/display/qdcm_calib_data_vtdr6130_amoled_video_mode_dsi_visionox_panel_with_DSC.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_vtdr6130_amoled_video_mode_dsi_visionox_panel_with_DSC.json \
     vendor/xiaomi/sky/proprietary/vendor/etc/display/qdcm_calib_data_xiaomi_m19_36_02_0a_fhd_dsc_video_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_xiaomi_m19_36_02_0a_fhd_dsc_video_dsi_panel.json \
     vendor/xiaomi/sky/proprietary/vendor/etc/display/qdcm_calib_data_xiaomi_m19_42_03_0b_fhd_dsc_video_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_xiaomi_m19_42_03_0b_fhd_dsc_video_dsi_panel.json \
+    vendor/xiaomi/sky/proprietary/vendor/etc/display/qdcm_calib_data_xiaomi_m19_42_03_0c_fhd_dsc_video_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_xiaomi_m19_42_03_0c_fhd_dsc_video_dsi_panel.json \
     vendor/xiaomi/sky/proprietary/vendor/etc/display/thermallevel_to_fps.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/thermallevel_to_fps.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
     vendor/xiaomi/sky/proprietary/vendor/etc/gpfspath_oem_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/gpfspath_oem_config.xml \
@@ -685,6 +686,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sky/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/xiaomi/sky/proprietary/vendor/etc/xiaomi_m19_36_02_0a_fhd_dsc_video_dsi_panel_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/xiaomi_m19_36_02_0a_fhd_dsc_video_dsi_panel_mi.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/xiaomi_m19_42_03_0b_fhd_dsc_video_dsi_panel_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/xiaomi_m19_42_03_0b_fhd_dsc_video_dsi_panel_mi.xml \
+    vendor/xiaomi/sky/proprietary/vendor/etc/xiaomi_m19_42_03_0c_fhd_dsc_video_dsi_panel_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/xiaomi_m19_42_03_0c_fhd_dsc_video_dsi_panel_mi.xml \
     vendor/xiaomi/sky/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/xiaomi/sky/proprietary/vendor/etc/xtwifi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/xtwifi.conf \
     vendor/xiaomi/sky/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
